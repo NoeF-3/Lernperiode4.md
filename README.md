@@ -19,8 +19,16 @@ Meine Effizienz oben behalten wie letzte Lernperiode
 
 ## Planung 08.06.2026
 
-- [ ] Monitor recherchieren und vorschlagen
-- [ ] Projekt finden
+- [x] Monitor recherchieren und vorschlagen
+- [x] Projekt finden
+
+## Tagesreflexion
+Ich habe mich mit den Bildschirmen befasst und daraufhin entschied ich mich, irgendetwas im Sinne von Web-Design zu machen. Ich habe auf Visual Studio Code versucht, etwas mit Java, HTML und CSS anzustellen, es lief bis jetzt aber noch nicht so gut. 
+
+## Planung 22.06.2026
+
+- [ ] Mich mit den Programmiersprachen und Visual Studio Code vertraut machen
+- [ ] Genaues Projekt entscheiden
 
 ## Tagesreflexion
 
