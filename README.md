@@ -17,7 +17,7 @@ Ich habe noch keine Inspiration, auf was ich micht spezifizieren will. Eventuell
 ### Generelle Ziele
 Meine Effizienz oben behalten wie letzte Lernperiode
 
-## Planung 09.01.2026
+## Planung 08.06.2026
 
 - [ ] Monitor recherchieren und vorschlagen
 - [ ] Projekt finden
