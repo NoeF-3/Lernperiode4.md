@@ -27,8 +27,16 @@ Ich habe mich mit den Bildschirmen befasst und daraufhin entschied ich mich, irg
 
 ## Planung 22.06.2026
 
-- [ ] Mich mit den Programmiersprachen und Visual Studio Code vertraut machen
+- [x] Mich mit den Programmiersprachen und Visual Studio Code vertraut machen
 - [ ] Genaues Projekt entscheiden
+
+## Tagesreflexion
+Ich habe zum Teil den Monitor angeschaut, um mir eine Meinung zu bilden. Nebenbei kam ich noch dazu, mich ein wenig mit den Sprachen auf VS bekannt zu machen. Ich konnte mich noch nicht für einem spezifischem Thema kommen.
+
+## Planung 29.06.2026
+
+- [ ] Genaues Projekt entscheiden
+- [ ] Am Projekt arbeiten
 
 ## Tagesreflexion
 
