@@ -39,4 +39,11 @@ Ich habe zum Teil den Monitor angeschaut, um mir eine Meinung zu bilden. Nebenbe
 - [ ] Am Projekt arbeiten
 
 ## Tagesreflexion
+Ich konnte mich heute aufgrund zwei schlechten Nächten schlechter als üblicherweise konzentrieren, kam demnach auch nicht so schnell voran. Ich habe mich noch ein bisschen mit dem Webdesign beschäftigt und eine erste Test-Website gemacht. Dazu habe ich noch Monitore angeschaut und habe mit dem Arduino experimentiert. 
 
+## Planung 05.07.2026
+
+- [ ] Genaues Projekt entscheiden
+- [ ] Am Projekt arbeiten
+
+## Tagesreflexion
