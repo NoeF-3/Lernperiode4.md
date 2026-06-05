@@ -23,7 +23,7 @@ Meine Effizienz oben behalten wie letzte Lernperiode
 - [x] Projekt finden
 
 ## Tagesreflexion
-Ich habe mich mit den Bildschirmen befasst und daraufhin entschied ich mich, irgendetwas im Sinne von Web-Design zu machen. Ich habe auf Visual Studio Code versucht, etwas mit Java, HTML und CSS anzustellen, es lief bis jetzt aber noch nicht so gut. 
+Ich habe mich mit den Bildschirmen befasst und daraufhin entschied ich mich, irgendetwas im Sinne von Web-Design zu machen. Ich habe auf Visual Studio Code versucht, etwas mit Javascript, HTML und CSS anzustellen, es lief bis jetzt aber noch nicht so gut. 
 
 ## Planung 22.06.2026
 
