@@ -47,3 +47,10 @@ Ich konnte mich heute aufgrund zwei schlechten Nächten schlechter als üblicher
 - [ ] Am Projekt arbeiten
 
 ## Tagesreflexion
+Ich habe eine Website über Schlangen und Informationen über Arten angefangen und eine aufklappbare Liste zu drei Arten gemacht. Ich kam heute gut voran und nächstes mal werde ich an der Website weiterarbeiten.
+
+## Planung 05.07.2026
+
+- [ ] Website erweitern
+
+## Tagesreflexion
