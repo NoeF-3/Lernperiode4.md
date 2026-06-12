@@ -54,3 +54,11 @@ Ich habe eine Website über Schlangen und Informationen über Arten angefangen u
 - [ ] Website erweitern
 
 ## Tagesreflexion
+Ich habe ein paar mehr Infos zur Website hinzugefügt. Tempo war angemessen.
+
+## Planung 19.07.2026
+
+- [ ] Website erweitern
+
+## Tagesreflexion
+
