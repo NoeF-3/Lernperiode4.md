@@ -61,4 +61,11 @@ Ich habe ein paar mehr Infos zur Website hinzugefügt. Tempo war angemessen.
 - [ ] Website erweitern
 
 ## Tagesreflexion
+Ich habe an der Website für das Projekt M293 gearbeitet. Ich war sehr produktiv und konnte es nahezu beenden.
+
+## Planung 26.06.26
+
+- [ ] Website erweitern
+
+## Tagesreflexion
 
