@@ -65,7 +65,10 @@ Ich habe an der Website für das Projekt M293 gearbeitet. Ich war sehr produktiv
 
 ## Planung 26.06.26
 
-- [ ] Website erweitern
+- [x] Website erweitern
 
 ## Tagesreflexion
+Ich habe meine Website so etwa beendet, demnach konnte ich das Projekt abschliessen. Ich war heute nicht allzu poduktiv, aber auch nicht furchtbar.
 
+## Reflexion Lernperiode
+Ich habe diese Lernperiode ziemlich viel Zeit invistiert, an Projekten von anderen Modulen zu arbeiten. Ich habe dazu noch ein paar kleine Projekte gemacht. Ich hatte Probleme, mich an ein langes, festes Projekt festzumachen. Aber ich war insgesamt gemässigt Produktiv. Nächste Periode möchte ich ein festeres Projekt finden, so dass ich es nicht jede paar Wochen ein neues anfange. Ich möchte dazu in der nächsten Periode konstant konstruktiv bleiben wie in dieser.
